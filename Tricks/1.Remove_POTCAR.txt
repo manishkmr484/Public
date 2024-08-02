@@ -1,0 +1,2 @@
+chmod -R u+w *  %here * can be folder/sub folder/files
+rm -rf *
