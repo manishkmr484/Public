@@ -1,0 +1,3 @@
+gzip -k filename.txt
+
+It will compress the file and retain the original file 
