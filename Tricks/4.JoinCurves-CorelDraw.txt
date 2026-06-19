@@ -2,4 +2,4 @@ Ungroup
 Select
 Window
 Docker
-Precision 0.0001
+Precision 0.001 mm
